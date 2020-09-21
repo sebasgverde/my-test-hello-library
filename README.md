@@ -1,4 +1,4 @@
-# my-test-hello-library
+# my-test-pypi-library
 python library test and template for PyPI uploading
 
 Links of tutorials for PyPI
