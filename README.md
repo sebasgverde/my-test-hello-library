@@ -1,7 +1,7 @@
 # my-test-hello-library
 python library test and template for PyPI uploading
 
-linsk of tutorials for PyPI
+Links of tutorials for PyPI
 - It has all the important instructions, used as main source: [https://packaging.python.org/tutorials/distributing-packages/](https://packaging.python.org/tutorials/distributing-packages/)
 - More descriptive about the files and structure but still use only as complement and reference more in the first link [https://packaging.python.org/guides/migrating-to-pypi-org/#uploading](https://packaging.python.org/guides/migrating-to-pypi-org/#uploading)
 
